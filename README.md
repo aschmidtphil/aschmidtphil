@@ -3,7 +3,75 @@
 <!--
 **aschmidtphil/aschmidtphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Dr. Alexander Schmidt
+Data Analyst | Data Visualization | Data Scientist
+🔭 Passionate about turning data into meaningful insights
+📍 Based in Wuppertal, Germany
+
+👋 About Me
+After a long journey of exploring deep questions in philosophy, I found my true calling in the world of IT and Data Analytics—a field that perfectly matches my unending curiosity and drive to uncover hidden patterns and insights.
+
+During my academic journey, I developed a unique ability to systematically uncover and communicate complex structures. These skills have seamlessly transitioned into my data analytics work, where I thrive on solving challenging problems and driving impactful results.
+
+Data-Driven Storytelling is my passion: I transform raw data into meaningful narratives that influence decisions and strategies.
+
+🌱 Currently Learning
+I'm currently enrolled in the IBM Data Science Professional Certificate program, sharpening my skills in data analysis, Python, and machine learning.
+
+💼 Professional Experience
+Advanced Data Analytics Student
+neuefische GmbH | 08/2024 – 11/2024
+
+Completed an intensive coding bootcamp (540 hours) in advanced data analytics.
+Built a team-based project: Global Ecosystem Classifier.
+Outperformed 80% of participants in programming exercises.
+Scientific Assistant
+Bergische Universität Wuppertal | 09/2018 – 04/2021
+
+Supported seminars, workshops, and conferences.
+Gained experience in teamwork, organization, and communication.
+Industrial Management Assistant (Apprenticeship)
+WITTE Automotive | 08/2007 – 06/2009
+
+Acquired business and organizational knowledge.
+🎓 Education
+Ph.D. in Philosophy
+Bergische Universität Wuppertal | 04/2017 – 07/2023
+
+Dissertation: Schelling's Theory of Time.
+Awarded summa cum laude.
+M.A. in Philosophy
+Bergische Universität Wuppertal | 10/2013 – 05/2017
+
+Graduated with distinction (1.0).
+B.A. in Mathematics and Philosophy
+Bergische Universität Wuppertal | 10/2009 – 09/2013
+
+Combined math courses: Informatics, Algebra, Logic, Analysis.
+Final grade: 1.6.
+💻 IT Skills
+Data Analysis & Visualization
+Tableau, Power BI, dbt, Pandas, Matplotlib, Seaborn, Excel
+Programming Languages & Tools
+Python, SQL, Git, APIs, SAP, C, HTML, Bash
+Agile Methods
+Scrum, Kanban
+🌍 Languages
+German: Native
+English: Fluent
+Italian: Advanced
+French: Beginner
+Latin: Proficient
+Ancient Greek: Proficient
+📚 Publications
+Schelling’s Theory of Time: The Hidden System Behind the Philosophy of Ages
+Published by Frommann-Holzboog Verlag, 09/2024
+Read more
+🤝 Let’s Connect
+Email: aschmidtphil@gmail.com
+LinkedIn: linkedin.com/in/alexander-schmidt
+GitHub: github.com/aschmidtphil
+Would you like me to tweak any part of this or focus more on a specific section? Let me know!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +81,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h3 align="center">A passionate Data Analyst from Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
