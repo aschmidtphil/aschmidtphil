@@ -7,7 +7,7 @@
 
 - 🔭 **I’m currently working on**: Exploring advanced data analytics techniques and honing my machine learning skills through projects and real-world data challenges.  
 - 🌱 **I’m currently learning**: The **IBM Data Science Professional Certificate**, focusing on Python, machine learning, and data storytelling.  
-- 👯 **I’m looking to collaborate on**: Data-driven storytelling projects, machine learning applications, and impactful analytics that drive decisions.  
+- 👯 **I’m looking to collaborate on**: Machine learning applications, data science projects, data-driven storytelling and impactful analytics that drive decisions.
 - 🤔 **I’m looking for help with**: Expanding my expertise in big data tools and cloud-based analytics platforms.  
 - 💬 **Ask me about**: Data visualization, data cleaning, and combining philosophy with data science to solve complex problems.  
 - 📫 **How to reach me**: [aschmidtphil@gmail.com](mailto:aschmidtphil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexander-schmidt)  
