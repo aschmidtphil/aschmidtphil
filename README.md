@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-# Dr. Alexander Schmidt  
-**Data Analyst | Data Visualization | Data Scientist**  
-
-## 👋 Hi there!  
+# Welcome to my GIThub page. 
+**I am a passionate Data Analyst and Scientist from germany**  
 
 - 🔭 **I’m currently working on**: Exploring advanced data analytics techniques and honing my machine learning skills through projects and real-world data challenges.  
 - 🌱 **I’m currently learning**: The **IBM Data Science Professional Certificate**, focusing on Python, machine learning, and data storytelling.  
