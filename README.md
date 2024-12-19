@@ -19,7 +19,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>  
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>  
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg](https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/>  
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>  
 </p>  
@@ -34,12 +34,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>  
-</p>  
-
-### Agile Methods  
-<p align="left">  
-  <img src="https://img.icons8.com/color/48/000000/scrum.png" alt="Scrum" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/000000/kanban.png" alt="Kanban" width="40" height="40"/>  
 </p>  
 
 ---
