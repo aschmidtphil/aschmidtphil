@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# Welcome to my github page!
+# Welcome to my GitHub page!
 **I'm Alexander and I'm a passionate Data Analyst and Scientist from germany**
 
 - 🔭 **I’m currently working on**: Exploring advanced data analytics techniques and honing my machine learning skills through projects and real-world data challenges.  
