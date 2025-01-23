@@ -10,7 +10,7 @@
 - 💬 **Ask me about**: Data visualization, data cleaning, and combining philosophy with data science to solve complex problems.  
 - 📫 **How to reach me**: [aschmidtphil@gmail.com](mailto:aschmidtphil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexander-schmidt)  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: My passion for uncovering hidden patterns stems from my background in philosophy, where I researched and published on the hidden structures of time.  
+- ⚡ **Fun fact**: My passion for uncovering hidden patterns stems from my background in philosophy, where I researched and [published](https://www.frommann-holzboog.de/reihen/55/550003520?lang=de) on the hidden structures of time.  
 
 ---
 
