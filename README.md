@@ -1,10 +1,11 @@
 # Hi there 👋
 
-# Welcome to my GitHub page!
-**I'm Alexander and I'm a passionate Data Analyst and Scientist from germany**
+# Welcome to my GitHub page!  
+**I'm Alexander and I'm a passionate Data Analyst and Scientist from Germany**
 
 - 🔭 **I’m currently working on**: Exploring advanced data analytics techniques and honing my machine learning skills through projects and real-world data challenges.  
-- 🌱 **I’m currently learning**: The **IBM Data Science Professional Certificate**, focusing on Python, machine learning, and data storytelling.  
+- 🌱 **I’m currently learning**: Advanced data engineering techniques, diving deeper into cloud-based platforms like AWS and Azure, and exploring real-time data processing frameworks like Apache Kafka.  
+- 🎓 **I’m now certified in**: The **IBM Data Science Professional Certificate**, where I’ve deepened my knowledge in Python, machine learning, and data storytelling.  
 - 👯 **I’m looking to collaborate on**: Machine learning applications, data science projects, data-driven storytelling and impactful analytics that drive decisions.
 - 🤔 **I’m looking for help with**: Expanding my expertise in big data tools and cloud-based analytics platforms.  
 - 💬 **Ask me about**: Data visualization, data cleaning, and combining philosophy with data science to solve complex problems.  
@@ -23,7 +24,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>  
-  </p>  
+</p>  
 
 ### Programming Languages & Tools  
 <p align="left">  
@@ -44,4 +45,3 @@
 - **Email**: [aschmidtphil@gmail.com](mailto:aschmidtphil@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/alexander-schmidt](https://linkedin.com/in/alexander-schmidt)  
 - **GitHub**: [github.com/aschmidtphil](https://github.com/aschmidtphil)  
-
