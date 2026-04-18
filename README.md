@@ -16,27 +16,33 @@
 ---
 
 ### Data Analysis & Visualization
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-</p>
+
+<table>
+<tr>
+<td><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="40"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></td>
+<td><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40"/></td>
+<td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
+<td><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/></td>
+</tr>
+</table>
 
 ### Programming Languages & Tools
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/api-settings.png" alt="APIs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg" alt="SAP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-</p>
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td><img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="40"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
